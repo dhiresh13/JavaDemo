@@ -98,7 +98,7 @@ public class SheetsQuickstart {
                 
             }
             
-            System.out.println("Total Fixed Cost =$" + totalFixedCost);
+            System.out.println("Total Fixed Cost  = $" + totalFixedCost);
             System.out.println("Total Actual Hours =" + totalActualHrs);
         
         }
